@@ -1,0 +1,28 @@
+Array
+(
+    [name] => Array
+        (
+            [avatar_path] => vplanttttttt.png
+        )
+
+    [type] => Array
+        (
+            [avatar_path] => image/png
+        )
+
+    [tmp_name] => Array
+        (
+            [avatar_path] => /tmp/php1q3kRF
+        )
+
+    [error] => Array
+        (
+            [avatar_path] => 0
+        )
+
+    [size] => Array
+        (
+            [avatar_path] => 10658
+        )
+
+)

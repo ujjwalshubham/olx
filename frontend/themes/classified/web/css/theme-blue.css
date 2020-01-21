@@ -1,0 +1,78 @@
+
+
+/* Dark Blue Color Theme code 1c90f3 ;
+
+Light Blue Color Theme code 007bff 
+
+*/
+
+
+/*Theme color css*/
+.bt_blue{background-color: #1c90f3; color: #fff;}
+.bt_blue:hover, .bt_blue:focus{background-color: #187ace; color: #fff;}
+
+a{color: #2196f3;}
+#header{background-color: #f7f7f7;}
+#header .header_nav .nav-link.post_ad_bt{border: 1px solid#2196f3; color: #2196f3;}
+#header .header_nav .nav-link.post_ad_bt:hover{background-color: #2196f3; color: #fff;}
+.hamburger{background-color: #eeeeee;}
+#lang-dropdown .btn{ background-color: #dddddd; font-weight: bold;}
+#lang-dropdown .dropdown-menu li a:hover{ color: #2196f3;}
+.category-item:hover .category-title {color: #007bff; }
+.btn-primary {color: #fff; background-color: #007bff;  border-color: #007bff;}
+.btn-primary:hover {color: #fff; background-color: #0069d9; border-color: #0062cc;}
+.sad_block .ad_info .item-details li i{color: #1875bf;}
+.sad_block .ad_info .item-details li a:hover{color: #2196f3;}
+.ad_info .contact-options li a:hover {color: #fff; background: #007bff;}
+.footer-section .helpMenu li a:hover, .footer-section .email a:hover, .footer-section .phone a:hover, .social a:hover{color: #007bff;}
+.ad-details span.icon a:hover, .user-info a:hover{color: #1c90f3;}
+.more-info li a span.uf{ color: #1c90f3;}
+.user-admin .contacts i{ background-color: #1c90f3;}
+
+/*-----------dashboard-----------*/
+.user-panel-sidebar ul li a:active, .user-panel-sidebar ul li a:hover, .user-panel-sidebar ul li.active a { background-color: #2196f3; color: #fff; }
+.badge { background-color: #2196f3; color: #fff; }
+.user-panel-sidebar ul li a:hover > .badge { background-color: #fff; color: #2196f3; }
+.btn.btn-outline { background-color: #2196f3; color: #fff; }
+.btn.btn-outline:hover { background-color: transparent; color: #1c90f3; }
+.btn.btn-outline, .btn.btn-outline:hover { border: 1px solid #2196f3; }
+.pricing-plans-carousel .recommended .ribbon { background-color: #2196f3; color: #fff; }
+li span.icon-text.yes { color: #2db414; }
+li span.icon-text.no { color: #b4240d; }
+.border { border: 1px solid #e9ecef !important; }
+.border { border: 1px solid #e9ecef !important; }
+.pricing-plans-carousel .pricing-plan .price-text { color: #1c90f3; }
+.pricing-plans-carousel .pricing-plan:hover { background-color: #fff!important; -webkit-box-shadow: 1px 6px 20px 0 #e6f0f9; box-shadow: 1px 6px 20px 0 #e6f0f9; }
+.pricing-plans-carousel .recommended .ribbon { background-color: #1c90f3; }
+
+/*Login page color*/
+.user-account h2{ color: #007bff;}
+.user-account .user-option label:hover, .user-account .user-option a:hover, .terms_content h4{ color: #007bff;}
+
+.bt_green{background-color: #00cc67; color: #fff !important;}
+.bt_green:hover, .bt_green:focus{background-color: #00b65c; color: #fff;}
+.fr_ad.active{ border: 2px solid#139ff0;}
+.free_ad_content h5 span{background-color: #007bff;}
+
+[type="radio"]:checked + label:after, [type="radio"]:not(:checked) + label:after {background: #007bff;}
+
+table.table_my_ads thead tr{background: #007bff; color: #fff;}
+table.table_my_ads .breadcrumb li a:hover{color: #007bff;}
+table.table_my_ads .item-details li i {color: #007bff;}
+
+.sitemap_category li a:hover, .sitemap_listing .sub-item-wrapper .sub-item-cont li a:hover, .countries .cities li a:hover {color: #007bff;}
+.mrgn_rt_prfl ul.dropdown-menu li a:hover{color: #007bff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
